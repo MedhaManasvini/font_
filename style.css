@@ -1,0 +1,30 @@
+.heading{
+    box-shadow: 5px 5px grey;
+    background-color: skyblue;
+    color: white;
+    font-size: 26px;
+    font-family: fantasy;
+}
+.note{
+    font-size: 16px;
+    color: black;
+}
+body{
+    background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000");
+    background-size: cover;
+}
+#copyright{
+    position:fixed;
+    bottom: 0;
+    color: white;
+    background-color: darkblue;
+    width: 100%;
+    text-align: center;
+}
+canvas{
+    border: 5px inset hotpink;
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px purple;
+    margin-bottom: 100px;
+    margin-left: 100px;
+}
